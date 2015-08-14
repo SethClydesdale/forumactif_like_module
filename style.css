@@ -7,6 +7,7 @@
 }
 
 .fa_voted, .fa_vote:hover { opacity:0.4 }
+.fa_voted { cursor:default }
 
 .fa_count {
   font-weight:bold;
