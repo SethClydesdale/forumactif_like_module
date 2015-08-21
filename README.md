@@ -11,4 +11,5 @@ To install the module, simply navigate to your administration panel and go to **
 - [English](http://help.forumotion.com/t142870-improve-the-reputation-system-so-it-counts-votes#972462)
 
 The result should be similar to the image below.
+
 ![Preview](http://i18.servimg.com/u/f18/18/21/41/30/like10.gif)
